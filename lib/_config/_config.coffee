@@ -4,11 +4,11 @@
 @Config =
 
 	# Basic Details
-	name: 'My App'
+	name: 'QUIVideo Booking Tool'
 	title: ->
-			TAPi18n.__ 'configTitle'
+			TAPi18n.__ 'QUIVideo'
 	subtitle: ->
-			TAPi18n.__ 'configSubtitle'
+			TAPi18n.__ 'Booking tool'
 	logo: ->
 		'<b>' + @name + '</b>'
 	footer: ->

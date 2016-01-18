@@ -1,5 +1,6 @@
 @AdminConfig =
 	name: Config.name
+	adminEmails: ['karoly.szabo@intesys.it']
 	collections:
 		Posts:
 			color: 'red'
